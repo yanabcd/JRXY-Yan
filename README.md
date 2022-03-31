@@ -16,3 +16,6 @@
   
 ![1W@(XVTEJ)P1}R7BX_@M}ZU](https://user-images.githubusercontent.com/48935623/161063103-3e29d28f-c090-447d-9b93-6698451a7993.png)  
 
+## **参考** Reference
+- [Hamibot-Doc](https://docs.hamibot.com/install-hamibot/)
+
